@@ -1,0 +1,10 @@
+# Basis config Datei
+
+# Site settings
+title:
+email:
+description:
+baseurl: /lerne-jekyll
+exclude: ['README.md']
+# Build settings
+markdown: kramdown
