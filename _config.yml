@@ -4,7 +4,8 @@
 title:
 email:
 description:
-baseurl: /lerne-jekyll
+baseurl: /lerne-jekyll  # Im Terminal den Befehl:   jekyll serve --baseurl ""     ausführen
+                        # ev.   jekyll serve --watch --baseurl ""     ausführen falls nötig
 exclude: ['README.md']
 # Build settings
 markdown: kramdown
