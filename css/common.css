@@ -2,7 +2,7 @@ html {
     margin: 0;
     padding: 0;
 
-    font: normal 100%/1.4 Papyrus,serif;
+    font: normal 100%/1.4 Georgia,serif;
 }
 
 .current {
@@ -19,4 +19,8 @@ html {
 
 .nav > li {
     display: inline-block;
+}
+
+.nav-top {
+    font-size: 1.25em;
 }
