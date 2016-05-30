@@ -1,0 +1,9 @@
+---
+layout: news
+title: Loopen über Posts
+meta: 
+source: http://firewiesel.github.io/lerne-jekyll/
+category: news
+---
+
+Heute wurde das Loopen über mehrere Post mit Hilfe von Jekyll erarbeitet. Mehr dazu in der Jekyll Rubrik.
