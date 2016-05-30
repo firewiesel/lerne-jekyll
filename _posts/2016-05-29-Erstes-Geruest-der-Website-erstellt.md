@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Die Erste HTML Seite erstellt
-meta: 
+meta: Hierzu einige Erläuterung wie es gemacht wurde
 source: http://firewiesel.github.io/lerne-jekyll/
 category: news
 ---

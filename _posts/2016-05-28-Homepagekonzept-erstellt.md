@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Hompeagekonzept mit Zielen erstellt
-meta: 
+meta: Konzeptzeichnungen der Homepage und weitere Erläuterungen
 source: http://firewiesel.github.io/lerne-jekyll/
 category: news
 ---
