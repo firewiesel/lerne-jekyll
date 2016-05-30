@@ -5,16 +5,19 @@
         <title>Lerne Jekyll und knowledge und how-to base!</title>
         <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
     </head>
-    <header>
-        <h1>Firewiesel's know-how Webseite</h1>
-        {% include nav.html %}
-    </header>
-    <body>
-        {{content}}
-    </body>
 
-    <footer>
-        {% include nav.html %}
-        <p>© 2016 lerne-jekyll</p>
-    </footer>
+    <body>
+
+        <header>
+            <h1>Firewiesel's know-how Webseite</h1>
+            {% include nav.html navclass='nav-top' %}
+        </header>
+
+            {{content}}
+
+        <footer>
+            {% include nav.html navclass='nav-bottom' %}
+            <p>© 2016 lerne-jekyll</p>
+        </footer>
+    </body>
 </html>
