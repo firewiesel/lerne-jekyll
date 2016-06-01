@@ -1,7 +1,7 @@
 <nav>
     <ul class="nav {{include.navclass}}">
         <li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">Home</a></li>
-        <li><a href="{{site.baseurl}}/news.html" class="{% if page.url == '/news.html' %}current{% endif %}">News</a></li>
+        <li><a href="{{site.baseurl}}/news.html" class="{% if page.url contains 'news' %}current{% endif %}">News</a></li> <!-- or page.url contains 'jekyll-news' [falls nötig...]-->
         <li><a href="{{site.baseurl}}/jekyll/">Jekyll how-to's</a></li>
         <li><a href="{{site.baseurl}}/macports/">Machports know-how/ how-to's</a></li>
         <li><a href="{{site.baseurl}}/html_css/">HTML und CSS how-to's</a></li>
