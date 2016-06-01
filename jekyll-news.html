@@ -1,0 +1,14 @@
+---
+layout: news
+---
+
+<h1>Jekyll News und Links</h1>
+
+<ul>
+    {% for newspost in site.categories.jekyll-news %}
+    <li>
+        <a href="">{{newspost.title}}</a>
+        <p>{{newspost.meta}}</p>
+    </li>
+    {% endfor %}
+</ul>
