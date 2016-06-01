@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Loopen über Posts
-meta: Jekyll und das Loopen mit der "for" "forend" Schleife
+meta: Jekyll und das Loopen mit der "for" und "forend" Schleife
 source: http://firewiesel.github.io/lerne-jekyll/
 category: news
 ---
