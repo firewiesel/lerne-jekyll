@@ -5,7 +5,7 @@ layout: default
 <h1>News</h1>
 
 <ul>
-    {% for newspost in site.posts %}
+    {% for newspost in site.categories.news limit:2 %}
     <li>
         <a href="">{{newspost.title}}</a>
         <p>{{newspost.meta}}</p>
