@@ -4,3 +4,13 @@ layout: default
 <h1>firewiesel's know-how Webseite</h1>
 <p>Eine kleine Test homepage die dann auch als know/ how-to Plattfrom dienen soll</p>
 
+<h2>Test content mit Planeten</h2>
+
+<ol>
+    {% for planet in site.categories.planet-type %}
+        <li>
+            <a href="#">{{planet.title}}</a>
+            {{planet.content}}
+        </li>
+    {% endfor %}
+</ol>
