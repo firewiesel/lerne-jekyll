@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Loopen über Posts
 meta: Jekyll und das Loopen mit der "for" "forend" Schleife
 source: http://firewiesel.github.io/lerne-jekyll/

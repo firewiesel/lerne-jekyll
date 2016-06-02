@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Die Erste HTML Seite erstellt
 meta: Hierzu einige Erläuterung wie es gemacht wurde
 source: http://firewiesel.github.io/lerne-jekyll/

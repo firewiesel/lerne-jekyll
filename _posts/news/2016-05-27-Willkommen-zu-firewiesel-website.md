@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Willkommen zum ersten Blog Post zu fireweisel's Webseite
 meta: Post über die Webseite
 source: http://firewiesel.github.io/lerne-jekyll/
