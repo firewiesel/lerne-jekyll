@@ -1,23 +1,38 @@
-<!DOCTYPE html>
-<html lang="de">
-    <head>
-        <meta charset="utf-8">
-        <title>Lerne Jekyll und knowledge und how-to base!</title>
-        <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
-    </head>
+html {
+    margin: 0;
+    padding: 0;
 
-    <body>
+    font: normal 100%/1.4 Georgia,serif;
+}
 
-        <header class="masthead {{page.mastheadClass}}">
-            <h1>Firewiesel's know-how Webseite</h1>
-            {% include nav.html navclass='nav-top' %}
-        </header>
+.masthead {
+    padding: 1em;
+    background: #000531 url("../img/nebula.jpg") no-repeat center center;
+    background-size: cover;
 
-            {{content}}
+    color: #fff;
+}
 
-        <footer>
-            {% include nav.html navclass='nav-bottom' %}
-            <p>© 2016 lerne-jekyll by <strong>sTs</strong></p>
-        </footer>
-    </body>
-</html>
+.masthead-planets {
+    background-image: url("../img/nebula-2.jpg");
+}
+
+.current {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.nav {
+    margin: 0;
+    padding: 0;
+
+    list-style-type: none;
+}
+
+.nav > li {
+    display: inline-block;
+}
+
+.nav-top {
+    font-size: 1.25em;
+}
