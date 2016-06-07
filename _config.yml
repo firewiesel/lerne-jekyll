@@ -9,3 +9,4 @@ baseurl: /lerne-jekyll  # Im Terminal den Befehl:   jekyll serve --baseurl ""   
 exclude: ['README.md']
 # Build settings
 markdown: kramdown
+permalink: pretty
