@@ -1,0 +1,28 @@
+- title: "Home"
+  href: "/"
+
+- title: "Blog"
+  href: "/blog/"
+
+- title: "Design Prozesse"
+  subcategories:
+    - title: "Erste Schritte im Designprozess"
+      subref: "#"
+    - title: "tbd"
+      subref: "#"
+
+- title: "MACPORTS"
+  subcategories:
+    - title: "Installation von Macports"
+      subref: "#"
+    - title: "Installation von ports allgemein"
+      subref: "#"
+    - title: "Installation und Bedieung 'dvdbackup' port"
+      subref: "#"
+
+- title: "Jekyll"
+  subcategories:
+    - title: "Installation auf Apple Mac"
+      subref: "#"
+    - title: "Installation auf Windows Maschine"
+      subref: "#"
