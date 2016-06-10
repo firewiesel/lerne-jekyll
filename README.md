@@ -19,7 +19,7 @@ Eine kleine website um folgendes zu lernen:
   * HTML/ CSS
   * Macports
   * Javascripts how-to's
-  * YAMAL
+  * YAML
   * JSON
   * Design Konzeption und sonstiges...
   * ... (weitere Themen folgen 'vielleicht' noch)
