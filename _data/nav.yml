@@ -17,8 +17,11 @@
       subref: "#"
     - title: "Installation von ports allgemein"
       subref: "#"
-    - title: "Installation und Bedieung 'dvdbackup' port"
+    - title: "Installation und Bedienung 'dvdbackup' port"
       subref: "#"
+    - title: "Installation und Bedienung 'miniDLNA' Mediaserver"  
+      subref: "#"
+    
 
 - title: "Jekyll"
   subcategories:
